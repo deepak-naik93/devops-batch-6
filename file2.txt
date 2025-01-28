@@ -1,1 +1,1 @@
-current unit is amps
+current unit is amps and resistor unit is ohm
